@@ -1,0 +1,2867 @@
+[SAS]
+Typ=sestava
+Verze=6.4
+Original=Ano
+
+[Autoøi]
+Vytvoøil-Jméno=MP-Soft a.s.
+Vytvoøil-Firma=MP-Soft a.s.
+Vytvoøil-Licence=
+Zmìnil-Jméno=MP-Soft a.s.
+Zmìnil-Firma=MP-Soft a.s.
+Zmìnil-Licence=
+
+[Sestava]
+Typ sestavy=Karta áka
+Index sestavy=2
+Seznam=Ne
+Mìøítko=100
+
+[Papír]
+Šíøka papíru=21000
+Vıška papíru=29700
+Okraj nahoøe=1250
+Okraj dole=1250
+Okraj vlevo=1250
+Okraj vpravo=1250
+Orientace na vıšku=Ano
+Zachytávat do møíky=Ne
+
+[Oddíly - strana 1]
+Záhlaví=Ne
+Záhlaví-pozice=2520
+Zaèátek=Ne
+Zaèátek-pozice=3790
+Hlavièka=Ne
+Hlavièka-pozice=5060
+Tìlo=Ne
+Tìlo-pozice=5695
+Konec=Ne
+Konec-pozice=6965
+Zápatí=Ne
+Zápatí-pozice=27180
+Patièka=Ne
+Patièka-pozice=6330
+
+[Oddíly - strana 2]
+Záhlaví=Ne
+Záhlaví-pozice=2520
+Zaèátek=Ne
+Zaèátek-pozice=3790
+Hlavièka=Ne
+Hlavièka-pozice=5060
+Tìlo=Ne
+Tìlo-pozice=5695
+Konec=Ne
+Konec-pozice=6965
+Zápatí=Ne
+Zápatí-pozice=27180
+Patièka=Ne
+Patièka-pozice=6330
+
+[Pozadí - strana 1]
+Ukázat pozadí=Ano
+Typ pozadí=5
+Pozadí-jméno souboru=49 147 2 (2007) strana 1.bmp
+Pozadí-bod 1 pùvodní=1336,6429
+Pozadí-bod 1 novı=1420,6600
+Pozadí-bod 2 pùvodní=19760,27094
+Pozadí-bod 2 novı=19450,27190
+
+[Pozadí - strana 2]
+Ukázat pozadí=Ano
+Typ pozadí=5
+Pozadí-jméno souboru=49 147 2 (2007) strana 2.bmp
+Pozadí-bod 1 pùvodní=1931,2434
+Pozadí-bod 1 novı=2300,2600
+Pozadí-bod 2 pùvodní=19369,21001
+Pozadí-bod 2 novı=19450,21090
+
+[Øazení]
+Pøed tiskem=Ne
+Øazení 0=+188,74
+Øazení 1=+187,74
+Øazení 2=+13
+Øazení 3=+14
+
+[Vıbìr, vstupy]
+Vıbìr prùb. údajù=Ano
+Vıbìr prùb. roèník min=6
+Vıbìr prùb. roèník max=7
+
+[Font 1]
+Font-znaková sada=238
+Font-barva=-2147483640
+Font-vıška=-13
+Font-název=Arial
+Font-typ písmen=0
+Font-velikost=10
+Font-tuènı=Ano
+Font-kurziva=Ne
+Font-podtrení=Ne
+Font-pøeškrtnutí=Ne
+
+[Font 2]
+Font-znaková sada=238
+Font-barva=-2147483640
+Font-vıška=-13
+Font-název=Arial
+Font-typ písmen=0
+Font-velikost=10
+Font-tuènı=Ne
+Font-kurziva=Ne
+Font-podtrení=Ne
+Font-pøeškrtnutí=Ne
+
+[Font 3]
+Font-znaková sada=238
+Font-barva=-2147483640
+Font-vıška=-13
+Font-název=Arial Narrow
+Font-typ písmen=0
+Font-velikost=10
+Font-tuènı=Ne
+Font-kurziva=Ne
+Font-podtrení=Ne
+Font-pøeškrtnutí=Ne
+
+[Font 4]
+Font-znaková sada=238
+Font-barva=-16777208
+Font-vıška=-13
+Font-název=Arial
+Font-typ písmen=0
+Font-velikost=10
+Font-tuènı=Ne
+Font-kurziva=Ne
+Font-podtrení=Ne
+Font-pøeškrtnutí=Ne
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=6324
+Pozice Y=7382
+Šíøka=3936
+Vıška=443
+Text=Pøíjmení
+Promìnná PK=13
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=3
+Font=1
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=10398
+Pozice Y=7382
+Šíøka=2401
+Vıška=443
+Text=Jméno
+Promìnná PK=14
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=1
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=6324
+Pozice Y=8123
+Šíøka=3419
+Vıška=443
+Text=Datum narození
+Promìnná PK=75
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Datum-tvar=4
+Datum-rok=0
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=6324
+Pozice Y=8546
+Šíøka=5786
+Vıška=443
+Text=Místo narození
+Promìnná PK=17
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=15055
+Pozice Y=8546
+Šíøka=7640
+Vıška=443
+Text=Státní obèanství - Název
+Promìnná PK=151,20
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=6324
+Pozice Y=9128
+Šíøka=5786
+Vıška=443
+Text=Bydlištì - Ulice
+Promìnná PK=22,31
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=6324
+Pozice Y=9551
+Šíøka=1214
+Vıška=443
+Text=Bydlištì - PSÈ
+Promìnná PK=24,31
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=7594
+Pozice Y=9551
+Šíøka=5786
+Vıška=443
+Text=Bydlištì - Obec
+Promìnná PK=23,31
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=6324
+Pozice Y=11245
+Šíøka=5786
+Vıška=443
+Text=Zákonnı zástupce 1 - Adresa doruèování - Ulice
+Promìnná PK=1787,1785,46
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=6324
+Pozice Y=11668
+Šíøka=1214
+Vıška=443
+Text=Zákonnı zástupce 1 - Adresa doruèování - PSÈ
+Promìnná PK=1789,1785,46
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=7594
+Pozice Y=11668
+Šíøka=5786
+Vıška=443
+Text=Zákonnı zástupce 1 - Adresa doruèování - Obec
+Promìnná PK=1788,1785,46
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=15055
+Pozice Y=11245
+Šíøka=3830
+Vıška=443
+Text=Zákonnı zástupce 1 - Adresa doruèování - Telefon
+Promìnná PK=1790,1785,46
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=15055
+Pozice Y=11668
+Šíøka=3830
+Vıška=443
+Text=Zákonnı zástupce 1 - Adresa doruèování - Mobil
+Promìnná PK=1791,1785,46
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=15055
+Pozice Y=12091
+Šíøka=6074
+Vıška=443
+Text=Zákonnı zástupce 1 - Adresa doruèování - e-mail
+Promìnná PK=1792,1785,46
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=3
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=15796
+Pozice Y=9842
+Šíøka=706
+Vıška=443
+Text=ZPS
+Promìnná PK=52
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Text ano=
+Text ne=xxx
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=17859
+Pozice Y=9842
+Šíøka=706
+Vıška=443
+Text=ZPS
+Promìnná PK=52
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Text ano=xxx
+Text ne=
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=4657
+Pozice Y=20532
+Šíøka=7640
+Vıška=443
+Text=Zákonnı zástupce 1 - Celé jméno
+Promìnná PK=1453,46
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=4
+
+[Objekt]
+Typ objektu=Text
+Strana=1
+Pozice X=6324
+Pozice Y=10081
+Šíøka=3830
+Vıška=443
+Text=Bydlištì - Telefon
+Promìnná PK=42,31
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=16404
+Pozice Y=2381
+Šíøka=1895
+Vıška=443
+Text=Naše škola - IZO
+Promìnná PK=271,35
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=5900
+Šíøka=1324
+Vıška=443
+Text=Chování
+Promìnná PK=-1
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=5900
+Šíøka=1133
+Vıška=443
+Text=Chování - Zkratka
+Promìnná PK=213,199
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=6562
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=1
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=6562
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=1
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11367
+Pozice Y=21034
+Šíøka=782
+Vıška=443
+Text=Prùmìrná známka
+Promìnná PK=200
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Pololetí=1
+Školní rok=6
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11589
+Pozice Y=4604
+Šíøka=1214
+Vıška=443
+Text=Tøída - Roèník (slovy)
+Promìnná PK=259,74
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Pololetí=2
+Školní rok=6
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13176
+Pozice Y=4604
+Šíøka=1214
+Vıška=443
+Text=Tøída - Roèník (slovy)
+Promìnná PK=259,74
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=7223
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=2
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=7223
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=2
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=7885
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=3
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=7885
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=3
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=8546
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=4
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=8546
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=4
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=9181
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=5
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=9181
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=5
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=9842
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=6
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=9842
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=6
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=10504
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=7
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=10504
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=7
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=11165
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=8
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=11165
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=8
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=11827
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=9
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=11827
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=9
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=12488
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=10
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=12488
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=10
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=13150
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=11
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=13150
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=11
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=13811
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=12
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=13811
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=12
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=14446
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=13
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=14446
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=13
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=15108
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=14
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=15108
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=14
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=15769
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=15
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=15769
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=15
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=16431
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=16
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=16431
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=16
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=17092
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=17
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=17092
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=17
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=17754
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=18
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=17754
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=18
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=18415
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=19
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=18415
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=19
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=19076
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=20
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=19076
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=20
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=19711
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=21
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=19711
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=21
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=2646
+Pozice Y=20373
+Šíøka=7640
+Vıška=443
+Text=Pøedmìt - Název
+Promìnná PK=218,198
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Font=2
+Èára-smìr=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=22
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=11192
+Pozice Y=20373
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=22
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=5900
+Šíøka=1133
+Vıška=443
+Text=Chování - Zkratka
+Promìnná PK=213,199
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=6562
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=1
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12187
+Pozice Y=21034
+Šíøka=782
+Vıška=443
+Text=Prùmìrná známka
+Promìnná PK=200
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Pololetí=2
+Školní rok=6
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=7223
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=2
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=7885
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=3
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=8546
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=4
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=9181
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=5
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=9842
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=6
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=10504
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=7
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=11165
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=8
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=11827
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=9
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=12488
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=10
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=13150
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=11
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=13811
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=12
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=14446
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=13
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=15108
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=14
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=15769
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=15
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=16431
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=16
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=17092
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=17
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=17754
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=18
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=18415
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=19
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=19076
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=20
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=19711
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=21
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12012
+Pozice Y=20373
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Školní rok=6
+Pøedmìt-typ=0
+Pøedmìt-poøadí=22
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=5900
+Šíøka=1133
+Vıška=443
+Text=Chování - Zkratka
+Promìnná PK=213,199
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=6562
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=1
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12981
+Pozice Y=21034
+Šíøka=782
+Vıška=443
+Text=Prùmìrná známka
+Promìnná PK=200
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Pololetí=1
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=7223
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=2
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=7885
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=3
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=8546
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=4
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=9181
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=5
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=9842
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=6
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=10504
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=7
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=11165
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=8
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=11827
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=9
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=12488
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=10
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=13150
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=11
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=13811
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=12
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=14446
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=13
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=15108
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=14
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=15769
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=15
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=16431
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=16
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=17092
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=17
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=17754
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=18
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=18415
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=19
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=19076
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=20
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=19711
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=21
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=12806
+Pozice Y=20373
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=1
+Pøedmìt-typ=0
+Pøedmìt-poøadí=22
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=5900
+Šíøka=1133
+Vıška=443
+Text=Chování - Zkratka
+Promìnná PK=213,199
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=6562
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=1
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13775
+Pozice Y=21034
+Šíøka=782
+Vıška=443
+Text=Prùmìrná známka
+Promìnná PK=200
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Pololetí=2
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=7223
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=2
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=7885
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=3
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=8546
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=4
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=9181
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=5
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=9842
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=6
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=10504
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=7
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=11165
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=8
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=11827
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=9
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=12488
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=10
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=13150
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=11
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=13811
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=12
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=14446
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=13
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=15108
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=14
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=15769
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=15
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=16431
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=16
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=17092
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=17
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=17754
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=18
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=18415
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=19
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=19076
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=20
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=19711
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=21
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+[Objekt]
+Typ objektu=Text
+Strana=2
+Pozice X=13600
+Pozice Y=20373
+Šíøka=1133
+Vıška=443
+Text=Známka - Zkratka
+Promìnná PK=210,32
+Šíøka-auto=Ano
+Vıška-auto=Ano
+Zarovnání vodorovné=2
+Font=2
+Èára-smìr=1
+Èára-délka=30
+Pololetí=2
+Pøedmìt-typ=0
+Pøedmìt-poøadí=22
+Pøedmìt-druh=3
+Pøedmìt-pololetí=4
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         şÿ                      ÕÍÕœ.“— +,ù®0           h      p      €      ˆ            ˜             ¨      °      ¸      À      ÷      â        Sophics                4	     '                                  +   ádost o pøihlášení do Domova mládee Zlín            Název                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  SQLite format 3   @    ^                                                              ^ -æü ¢ ¢Ÿ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  z!11ƒt a b l e I t e m T a b l e I t e m T a b l e C R E A T E   T A B L E   I t e m T a b l e   ( k e y   T E X T   U N I Q U E   O N   C O N F L I C T   R E P L A C E ,   v a l u e   B L O B   N O T   N U L L   O N   C O N F L I C T   F A I L ) [!}1 i n d e x s q l i t e _ a u t o i n d e x _ I t e m T a b l e _ 1 I t e m T a b l e       Â Â                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ;‚]I@d o t _ l a s t S e s s i o n 1 4 9 6 2 1 9 5 9 0 5 4 5 
+   Ü Ü                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  #Id o t _ l a s t S e s s i o n ]                        	   
+                                                                      !   "   #   $   %   &   '   (   )   *   +   ,   -   .   şÿÿÿ0   1   2   3   4   5   6   7   8   şÿÿÿ:   ;   <   =   >   ?   @   A   B   C   D   E   F   G   H   I   J   K   L   şÿÿÿN   O   P   Q   R   S   T   şÿÿÿV   W   X   Y   Z   [   \   şÿÿÿıÿÿÿ_   şÿÿÿşÿÿÿşÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿR o o t   E n t r y                                              ÿÿÿÿÿÿÿÿ   	     À      F            &öXk,Êa   €       D a t a                                                         
+ ÿÿÿÿÿÿÿÿÿÿÿÿ                                    /   ¤      1 T a b l e                                                            ÿÿÿÿ                                    9   g'      W o r d D o c u m e n t                                                ÿÿÿÿ                                        2\       S u m m a r y I n f o r m a t i o n                           ( ÿÿÿÿÿÿÿÿÿÿÿÿ                                    M           D o c u m e n t S u m m a r y I n f o r m a t i o n           8    ÿÿÿÿÿÿÿÿ                                    U           C o m p O b j                                                   ÿÿÿÿÿÿÿÿÿÿÿÿ                                        q                                                                           ÿÿÿÿÿÿÿÿÿÿÿÿ                                                   şÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ şÿ
+  ÿÿÿÿ	     À      F   Dokument Microsoft Office Word 
+   MSWordDoc    Word.Document.8 ô9²q                                                                                                                                                                                                                                                                                                                                                                                                                           

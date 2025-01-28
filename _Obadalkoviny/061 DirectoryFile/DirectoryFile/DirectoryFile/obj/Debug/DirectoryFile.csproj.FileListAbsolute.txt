@@ -1,0 +1,20 @@
+U:\DirectoryFile\DirectoryFile\bin\Debug\DirectoryFile.exe.config
+U:\DirectoryFile\DirectoryFile\bin\Debug\DirectoryFile.exe
+U:\DirectoryFile\DirectoryFile\bin\Debug\DirectoryFile.pdb
+U:\DirectoryFile\DirectoryFile\obj\Debug\DirectoryFile.csproj.AssemblyReference.cache
+U:\DirectoryFile\DirectoryFile\obj\Debug\DirectoryFile.Form1.resources
+U:\DirectoryFile\DirectoryFile\obj\Debug\DirectoryFile.Properties.Resources.resources
+U:\DirectoryFile\DirectoryFile\obj\Debug\DirectoryFile.csproj.GenerateResource.cache
+U:\DirectoryFile\DirectoryFile\obj\Debug\DirectoryFile.csproj.CoreCompileInputs.cache
+U:\DirectoryFile\DirectoryFile\obj\Debug\DirectoryFile.exe
+U:\DirectoryFile\DirectoryFile\obj\Debug\DirectoryFile.pdb
+K:\ZadaniUkolu\4E\PRO\06 DirectoryFile\DirectoryFile\DirectoryFile\bin\Debug\DirectoryFile.exe.config
+K:\ZadaniUkolu\4E\PRO\06 DirectoryFile\DirectoryFile\DirectoryFile\bin\Debug\DirectoryFile.exe
+K:\ZadaniUkolu\4E\PRO\06 DirectoryFile\DirectoryFile\DirectoryFile\bin\Debug\DirectoryFile.pdb
+K:\ZadaniUkolu\4E\PRO\06 DirectoryFile\DirectoryFile\DirectoryFile\obj\Debug\DirectoryFile.csproj.AssemblyReference.cache
+K:\ZadaniUkolu\4E\PRO\06 DirectoryFile\DirectoryFile\DirectoryFile\obj\Debug\DirectoryFile.Form1.resources
+K:\ZadaniUkolu\4E\PRO\06 DirectoryFile\DirectoryFile\DirectoryFile\obj\Debug\DirectoryFile.Properties.Resources.resources
+K:\ZadaniUkolu\4E\PRO\06 DirectoryFile\DirectoryFile\DirectoryFile\obj\Debug\DirectoryFile.csproj.GenerateResource.cache
+K:\ZadaniUkolu\4E\PRO\06 DirectoryFile\DirectoryFile\DirectoryFile\obj\Debug\DirectoryFile.csproj.CoreCompileInputs.cache
+K:\ZadaniUkolu\4E\PRO\06 DirectoryFile\DirectoryFile\DirectoryFile\obj\Debug\DirectoryFile.exe
+K:\ZadaniUkolu\4E\PRO\06 DirectoryFile\DirectoryFile\DirectoryFile\obj\Debug\DirectoryFile.pdb

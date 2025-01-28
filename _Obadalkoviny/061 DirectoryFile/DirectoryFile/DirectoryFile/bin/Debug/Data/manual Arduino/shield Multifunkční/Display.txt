@@ -1,0 +1,31 @@
+#define DisplLatch 4
+#define DisplClock 7
+#define DisplData 8
+
+unsigned char DisplZnaky[] = {0xC0, 0xF9, 0xA4, 0xB0, 0x99, 0x92, 0x82, 0xF8, 0X80, 0X90};
+unsigned char DisplSegment[] = {0xF1, 0xF2, 0xF4, 0xF8};
+unsigned char DisplHodnoty[] =  {0, 0, 0, 0};
+
+void setup()
+{
+
+}
+
+void display(int iHodnota)
+{
+  DisplHodnoty[0] = iHodnota / 1000;
+  DisplHodnoty[1] = iHodnota % 1000 / 100;
+  DisplHodnoty[2] = iHodnota % 100 / 10;
+  DisplHodnoty[3] = iHodnota % 10;
+  for(char time=0;time<25;time++)
+  {
+    for (char i = 0; i <= 3; i++)
+    {
+      digitalWrite(DisplLatch, LOW);
+      shiftOut(DisplData, DisplClock, MSBFIRST, DisplZnaky[DisplHodnoty[i]]);
+      shiftOut(DisplData, DisplClock, MSBFIRST, DisplSegment[i]);
+      digitalWrite(DisplLatch, HIGH);
+      delay(2);
+    }
+  }    
+}
