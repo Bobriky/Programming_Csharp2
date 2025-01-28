@@ -1,0 +1,30 @@
+/* Knihovna manual 
+  class TM1638(byte dataPin, byte clockPin, byte strobePin, boolean activateDisplay = true, byte intensity = 7);
+   - instance modulu tm1638 - specifikuje piny, stav zobrazení, počáteční intenzitu (0-7
+  
+  void setDisplayToDecNumber(unsigned long number, byte dots, boolean leadingZeros = true,const byte numberFont[] = NUMBER_FONT);
+  - zobrazení desetinného čísla bez znaménka (s nebo bez předcházejících nul)
+  void setDisplayToSignedDecNumber(signed long number, byte dots, boolean leadingZeros = true,const byte numberFont[] = NUMBER_FONT);
+  - zobrazení desetinného čísla se znaménkem (s nebo bez předcházejících nul)
+  void setDisplayToBinNumber(byte number, byte dots,const byte numberFont[] = NUMBER_FONT);
+  - zobrazení binárního čísla
+  void setDisplayToHexNumber(unsigned long number, byte dots, boolean leadingZeros = true,const byte numberFont[] = NUMBER_FONT);
+  - zobrazení hexadecimálního čísla (s nebo bez předních nul)
+  void setDisplayToString(string text)
+  - zobrazení textového řetězce
+  void clearDisplay()
+  - smazání obsahu displeje
+
+  virtual void setLED(byte state, byte pos);
+  - LED na pozici 0x00 - 0x0F nebo 0-15 
+  
+  void setLEDs(word led); void setLEDs(keys & leds);
+  - hromadné nastavení LED diod
+  - setLEDs(getButtons());
+
+
+  virtual byte getButtons();
+  - vrátí stisknuté tlačítka jako bitovou sadu (zleva doprava)
+  - 0000 0001 (1) - S1  1000 0000 (64) - S8
+  - S1 = 1, S2 = 2, S3 = 4, S4 = 8, S5 = 16, S6 = 32, S7 = 64, S8 = 128
+*/

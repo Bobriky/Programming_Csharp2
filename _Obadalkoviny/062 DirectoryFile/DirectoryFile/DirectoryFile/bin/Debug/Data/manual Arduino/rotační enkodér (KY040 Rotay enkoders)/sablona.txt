@@ -1,0 +1,68 @@
+
+// Rotaèní enkodér KY-040
+
+// promìnné pro nastavení propojovacích pinù
+int pinCLK = 3;
+int pinDT  = 4;
+int pinSW  = 5;
+
+// promìnné pro uložení pozice a stavù pro urèení smìru
+// a stavu tlaèítka
+int poziceEnkod = 0;
+int stavPred;
+int stavCLK;
+int stavSW;
+
+void setup() {
+  // komunikace pøes sériovou linku rychlostí 9600 baud
+  Serial.begin(9600);
+  // nastavení propojovacích pinù jako vstupních
+  pinMode(pinCLK, INPUT);
+  pinMode(pinDT, INPUT);
+  // nastavení propojovacího pinu pro tlaèítko
+  // jako vstupní s pull up odporem
+  pinMode(pinSW, INPUT_PULLUP);
+  // naètení aktuálního stavu pinu CLK pro porovnávání
+  stavPred = digitalRead(pinCLK);   
+} 
+
+void loop() {
+  // naètení stavu pinu CLK
+  stavCLK = digitalRead(pinCLK);
+  // pokud je stav CLK odlišný od pøedchozího mìøení,
+  // víme, že osa byla otoèena
+  if (stavCLK != stavPred) {
+    // pokud stav pinu DT neodpovídá stavu pinu CLK,
+    // byl pin CLK zmìnìn jako první a rotace byla
+    // po smìru hodin, tedy vpravo
+    if (digitalRead(pinDT) != stavCLK) {
+      // vytištìní zprávy o smìru rotace a pøiètení
+      // hodnoty 1 u poèítadla pozice enkodéru
+      Serial.print("Rotace vpravo => | ");
+      poziceEnkod ++;
+    }
+    // v opaèném pøípadì, tedy pin DT byl zmìnìn
+    // jako první, se jedná o rotaci
+    // proti smìru hodin, tedy vlevo
+    else {
+      // vytištìní zprávy o smìru rotace a odeètení
+      // hodnoty 1 u poèítadla pozice enkodéru
+      Serial.print("Rotace vlevo  <= | ");
+      poziceEnkod--;
+    }
+    // vytištìní aktuální hodnoty pozice enkodéru
+    Serial.print("Pozice enkoderu: ");
+    Serial.println(poziceEnkod);
+  }
+  // uložení posledního stavu pinu CLK
+  // jako reference pro další porovnávání
+  stavPred = stavCLK;
+  // naètení stavu pinu SW - tlaèítko
+  stavSW = digitalRead(pinSW);
+  // v pøípadì stisknutí vytiskni informaci
+  // po sériové lince
+  if (stavSW == 0) {
+    Serial.println("Stisknuto tlacitko enkoderu!");
+    delay(500);
+  }
+}

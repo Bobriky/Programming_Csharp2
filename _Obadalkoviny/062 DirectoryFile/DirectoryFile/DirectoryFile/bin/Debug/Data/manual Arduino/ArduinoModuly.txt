@@ -1,0 +1,91 @@
+Modul		Poèet	Odkaz
+Arduino			
+Klon Arduino UNO R3 ATmega328P CH340		10	Klon Arduino Uno R3 Atmega328p CH340
+Klon Arduino UNO R3 ATmega328P CH340 mini USB		2	Klon Arduino UNO R3 ATmega328P CH340 mini USB
+Klon Arduino Mega s CH340G Atmega2560-16AU		6	Klon Arduino Mega s CH340G Atmega2560-16AU
+Arduino Leonardo R3 Pro Micro ATmega32U4		1	Arduino Leonardo R3 Pro Micro ATmega32U4
+			
+Shield			
+Vıukovı MultiShield		10	Funduino vıukovı multi shield
+Arduino Data Logger Shield		1	Arduino Data Logger Shield
+Arduino Ethernet Shield W5100 R3		1	Arduino Ethernet Shield W5100 R3
+			
+Input-Output			
+Klávesnice membránová 4x4		10	Klávesnice membránová 4x4
+Led&Key		10	Led&Key
+Arduino uivatelskı interface		1	Arduino uivatelskı interface
+Arduino Dotyková klávesnice TTP229 16 kláves kapacitní		1	Dotyková klávesnice TTP229 16 kláves kapacitní
+Shield LCD TFT 2.4" displej dotykovı pro Arduino UNO		1	Shield LCD TFT 2.4" displej dotykovı
+Arduino display dotykovı 240x320px		1	Arduino display dotykovı 240x320px
+			
+Display a LED			
+LED 2-color	KY-011		KY-011 2-color LED module
+LED 2-color mini 3mm	KY-029		KY-029 Yin Yi 2-color LED module 3MM
+RGB LED 3 Color	KY-016	6	KY-016 RGB LED Modul 3 Barvy
+RGB SMD LED 3 color	KY-009	2	KY-009 5050 RGB SMD LED Modul
+LED dioda extra vıkonná 3W 		1	3W LED dioda extra vıkonná
+7color LED	KY-034		KY-034 Automatic flashing colorful LED module
+LED matice		10	LED matice
+Arduino RGB LED Modul		2	Arduino RGB LED Modul
+Arduino hodinovı displej TM1637		2	Arduino hodinovı displej TM1637
+IIC I2C Displej OLED 0.91" 128x32 Bílı 3,3 V 5V		1	IIC I2C Displej OLED 0.91" 128x32 Bílı 3,3 V 5V
+			
+Snímaèe			
+Akustickı snímaè Velkı	KY-037	11	Zvukovı senzor
+Akustickı snímaè Malı	KY-038	1	KY-038 Microphone sound sensor module
+Teplotní senzor DS18B20	KY-001	1	KY-001 Temperature sensor module
+Teplotní senzor NTC analogovı	KY-013	1	KY-013 Temperature sensor module
+Teplotní senzor a vlhkosti DHT11	KY-015	5	Arduino DHT11 teplomìr a vlhkomìr digitální
+Teplotní senzor NTC digitální	KY-028	1	KY-028 Temperature sensor module
+			
+Mìøiè vzdálenosti ultrazvukovı		10	Mìøiè vzdálenosti ultrazvukovı
+Pohybové èidlo HC - SR501		1	Pohybové Èidlo Modul typ HC - SR501
+Fotoresistor	KY-018	1	KY-018 Photo resistor module
+Detektor barvy		1	Arduino detektor barvy
+Hallùv magnetickı snímaè	KY-003	1	KY-003 Hall magnetic sensor module
+Lineární magnetickı snímaè Hall	KY-024	1	KY-024 Linear magnetic Hall sensors
+Analogovı Hall snímaè	KY-035	1	KY-035 Class Bihor magnetic sensor
+			
+Snímaèe plamene	KY-026	2	KY-026 Flame sensor module
+Poární senzor		1	Arduino poární senzor
+Senzor plynù MQ135 MQ-135		1	Senzor plynù MQ135 MQ-135
+CO senzor oxidu uhelnatého		1	Arduino CO senzor oxidu uhelnatého
+			
+Vibraèní spínaè	KY-002	1	KY-002 Vibration switch module
+Optickı rtuovı spínaè	KY-017	1	KY-017 Mercury open optical module
+Pohybovı spínaè	KY-020	1	KY-020 Tilt switch module
+Mini jazıèkovı spínaè	KY-021	1	KY-021 Mini magnetic reed modules
+Jazıèkovı spínaè	KY-025	1	KY-025 Reed module
+Rtuovı spínaè sklonu	KY-027	1	KY-027 Magic light cup module
+Vibraèní snímaè	KY-031	1	KY-031 Knock Sensor module
+			
+Snímaèe vyhnutí pøekáek	KY-032	1	KY-032 Obstacle avoidance sensor module
+Sledovaè dráhy	KY-033	1	KY-033 Hunt sensor module
+Detektor srdeèního tepu	KY-039	1	KY-039 Detect the heartbeat module
+Senzor hladiny dešové vody		1	Senzor hladiny dešové vody
+			
+Output			
+Arduino akustickı bzuèák		1	Arduino akustickı bzuèák
+Malı pasivní bzuèák	KY-006	1	KY-006 Small passive buzzer module
+Aktivní bzuèák	KY-012	1	KY-012 Active buzzer module
+Relé 5V	KY-019	1	KY-019 5V relay module
+Relé modul 4 kanaly		10	Rele modul 4 kanaly
+Krokovı motor + driver		10	Krokovı motor + driver
+			
+Input			
+Tlaèítkovı spínaè	KY-004	1	KY-004 Key switch module
+Dotykovı senzor	KY-036	1	KY-036 Metal touch sensor module
+Joystick PS2 XY-osı	KY-023	2	Arduino Joystick PS2
+Potenciometr - rotaèní enkodér	KY-040	2	Arduino rotaèní enkodér
+Dálkové ovládání infraèervené		1	Arduino dálkové ovládání infraèervené
+			
+Komunikace			
+IR infraèervenı vysílaè	KY-005	1	KY-005 Infrared emission sensor module
+IR infraèervenı pøijímaè	KY-022	1	KY-022 Infrared sensor receiver module
+Laserovı vysílaè	KY-008	1	KY-008 Laser sensor module
+			
+Elektronika			
+LED 3-Digital DC voltmetr modul		10	LED 3-Digital DC voltmetr modul
+Generátor signálu DDS pro sin a obd vlny AD9833		1	Programovatelnı generátor signálu DDS
+USB nabíjeèka baterií		1	USB nabíjeèka baterií
+Stepdown nastavitelnı mìniè s LM2596 DC-DC		1	Stepdown nastavitelnı mìniè s LM2596 DC-DC

@@ -1,0 +1,26 @@
+class SD 
+	filename - název souboru, který může obsahovat adresáře (ohraničené lomítky /)
+
+begin()	boolean begin(uint8_t csPin = SD_CHIP_SELECT_PIN);	true v pořádku
+open()	File open(const char *filename, uint8_t mode = FILE_READ);	FILE_WRITE – čtení i zápis
+exists()	boolean exists(const char *filepath); 	true existuje
+mkdir()	boolean mkdir(const char *filepath);	true složka vytvořena
+remove()	boolean remove(const char *filepath);	true soubor smazán
+rmdir()	boolean rmdir(const char *filepath);	true složka ostraněna
+
+class SD 
+name()		- vrátí název souboru
+available()	int File::available()	- vrátí počet dostupných bajtů 
+close()	void File::close()	- uzavře soubor
+flush()	void File::flush()	- po close() uloží data na SD
+peek()	int File::peek()	- načtě bajt ze souboru bez přechodu na další
+position()	uint32_t File::position()	- vrátí aktuální pozici v souboru
+print()		- vytiskne data (čísla jako posloupnost znaků)
+println()		- vytiskne data a konec řádku
+seek()	boolean File::seek(uint32_t pos)	- vyhledá novou pozici v souboru
+size()	uint32_t File::size()	- velikost pole
+read()	int File::read()	- čtení ze souboru
+write()	size_t File::write(uint8_t val)	- zápis dat do souboru
+isDirectory()	boolean File::isDirectory(void)	- TRUE je adresář
+openNextFile()	Char openNextFile()	- vrátí další soubor nebo složku
+rewindDirectory()	void rewindDirectory()	- vrátí zpět k prvnímu souboru v adresáři

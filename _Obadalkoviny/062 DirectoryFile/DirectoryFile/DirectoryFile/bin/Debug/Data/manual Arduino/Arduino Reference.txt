@@ -1,0 +1,128 @@
+Referenční příručka
+https://www.arduino.cc/reference/en/ 
+Structure
+setup()	loop()	; (semicolon)	{} (curly braces)	#define
+// (single line comment)	/* */ (multi-line comment)	#include
+Control Structures
+ 
+if	if...else	for	switch case	while	do... while
+break	continue	return	goto
+
+ 
+Operators
+Arithmetic Operators
+ 
+= (assignment)	+  (addition)	- (subtraction)	* (multiplication)	/ (division)	% (modulo)
+ 
+
+Comparison Operators
+ 
+== (equal to)	!= (not equal to)	< (less than)	> (greater than)	<= (less than or equal to)
+>= (greater than or equal to)
+ 
+
+Boolean Operators
+ 
+&& (and)	|| (or)	! (not)
+ 
+
+Pointer Access Operators
+ 
+* dereference operator	& reference operator
+ 
+
+Bitwise Operators
+ 
+& (bitwise and)	| (bitwise or)	^ (bitwise xor)	~ (bitwise not)	<< (bitshift left)	>> (bitshift right)
+ 
+
+Compound Operators
+ 
+++ (increment)	-- (decrement)	+= (compound addition)	-= (compound subtraction)
+*= (compound multiplication)	/= (compound division)	%= (compound modulo)
+&= (compound bitwise and)	|= (compound bitwise or)
+ 
+
+Variables
+Constants
+ 
+HIGH | LOW	INPUT | OUTPUT | INPUT_PULLUP	LED_BUILTIN	true | false	integer constants
+floating point constants
+ 
+
+Data Types
+ 
+void	boolean	char	unsigned char	byte	int
+unsigned int	word	long	unsigned long	short	float
+double	string - char array	String – object	array
+	 
+
+Conversion
+ 
+char()	byte()	int()	word()	long()	float()
+Variable Scope & Qualifiers	variable scope	static	volatile	const
+ 
+
+Utilities
+sizeof()	PROGMEM
+ 
+String
+length()	concat()	compareTo()	substring()	trim() - vyčistění řetězce
+toInt()	toFloat()	toCharArray()
+toLowerCase()	toUpperCase() 	String()	charAt()	
+	c_str()	endsWith()	equals()	equalsIgnoreCase()	getBytes()
+indexOf()	lastIndexOf() 	remove()	replace()	reserve()	setCharAt()
+startsWith()			
+
+Functions
+Digital I/O
+ 
+void pinMode(pin, mode) mode: INPUT, OUTPUT, or INPUT_PULLUP
+bool digitalRead(pin)	
+void digitalWrite(pin, value)
+
+Analog I/O
+ 
+int analogRead(pin)  	// retun 0 – 1023
+void analogWrite(pin, value)	// value 0 - 255 	PWM
+void analogReference(type)
+ 
+
+Due & Zero only
+ 
+analogReadResolution()	analogWriteResolution()
+ 
+
+Advanced I/O
+ 
+tone()	noTone()	shiftOut()	shiftIn()	pulseIn()
+ 
+
+Time
+ 
+millis()	micros()	delay()	delayMicroseconds()	
+
+Math
+ 
+min()	max()	abs()	constrain()	map()	pow()	
+sqrt()	sin()	cos()	tan()
+ 
+
+Characters
+ 
+isAlphaNumeric()	isAlpha()	isAscii()	isWhitespace()	isControl()
+isDigit()	isGraph()	isLowerCase()	isPrintable()	isPunct()	isSpace()
+isUpperCase()	isHexadecimalDigit()
+
+ 
+Random Numbers
+ 
+long random(min, max)	void randomSeed(seed)		
+
+Bits and Bytes	
+lowByte()	highByte()	bitRead()	bitWrite()	bitSet()	bitClear()	bit()
+
+ 
+External Interrupts
+ 
+attachInterrupt()	detachInterrupt()

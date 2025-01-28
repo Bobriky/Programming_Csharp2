@@ -1,0 +1,38 @@
+IRrecv() 	IRrecv (int recvpin) ;	- konstruktor
+blink13()	void blink13 (int blinkflag) ;	- blikání LED
+decode(&vysledek)	int decode (decode_results *results) ;	- nastaví objekt results (ukazatel)
+enableIRIn()	void enableIRIn( ) ;	- povolení vstupu IR
+resume()	void resume( ) ;	- přijetí další hodnoty
+
+class decode_results
+value	unsigned long value;        	- Decoded value [max 32-bits]
+decode_type 	decode_type_t          decode_type;  	- UNKNOWN, NEC, SONY, RC5, ...
+address	unsigned int address; 	- Used by Panasonic & Sharp [16-bits]
+bits	int bits;        	- Number of bits in decoded value
+rawbuf	volatile unsigned int  *rawbuf;      	- Raw intervals in 50uS ticks
+rawlen	int rawlen;      	- Number of records in rawbuf
+overflow	int overflow;     	- true iff IR raw code too long
+
+
+Kody ovladace:
+   0xFFA25D: Serial.println("Stisknuto CH-");
+   0xFF629D: Serial.println("Stisknuto CH");
+   0xFFE21D: Serial.println("Stisknuto CH+");
+   0xFF22DD: Serial.println("Stisknuto PREV");
+   0xFF02FD: Serial.println("Stisknuto NEXT");
+   0xFFC23D: Serial.println("Stisknuto PLAY/PAUSE");
+   0xFFE01F: Serial.println("Stisknuto VOL-");
+   0xFFA857: Serial.println("Stisknuto VOL+");
+   0xFF906F: Serial.println("Stisknuto EQ");
+   0xFF6897: Serial.println("Stisknuto 0");
+   0xFF9867: Serial.println("Stisknuto 100+");
+   0xFFB04F: Serial.println("Stisknuto 200+");
+   0xFF30CF: Serial.println("Stisknuto 1");
+   0xFF18E7: Serial.println("Stisknuto 2");
+   0xFF7A85: Serial.println("Stisknuto 3");
+   0xFF10EF: Serial.println("Stisknuto 4");
+   0xFF38C7: Serial.println("Stisknuto 5");
+   0xFF5AA5: Serial.println("Stisknuto 6");
+   0xFF42BD: Serial.println("Stisknuto 7");
+   0xFF4AB5: Serial.println("Stisknuto 8");
+   0xFF52AD: Serial.println("Stisknuto 9");

@@ -1,0 +1,74 @@
+// Detektory barvy
+
+// nastavení propojovacích pinù modulu
+#define pinS0 4
+#define pinS1 5
+#define pinS2 6
+#define pinS3 7
+#define pinOut 8
+
+void setup() {
+  // nastavení propojovacích pinù S jako výstupních
+  pinMode(pinS0, OUTPUT);
+  pinMode(pinS1, OUTPUT);
+  pinMode(pinS2, OUTPUT);
+  pinMode(pinS3, OUTPUT);
+  // nastavení pinu OUT jako vstupního
+  pinMode(pinOut, INPUT);
+  // inicializace detektoru barev
+  digitalWrite(pinS0,HIGH);
+  digitalWrite(pinS1,LOW);
+  // komunikace pøes sériovou linku rychlostí 9600 baud
+  Serial.begin(9600);
+}
+void loop() {
+  // promìnné pro uložení frekvencí barev
+  int frekvenceCervena, frekvenceZelena, frekvenceModra;
+  // nastavení mìøení èervené barvy
+  digitalWrite(pinS2,LOW);
+  digitalWrite(pinS3,LOW);
+  // krátká pauza pro pøesné mìøení
+  delay(50);
+  // naètení frekvence èervené barvy
+  frekvenceCervena = pulseIn(pinOut, LOW);
+  // nastavení mìøení zelené barvy
+  digitalWrite(pinS2,HIGH);
+  digitalWrite(pinS3,HIGH);
+  // krátká pauza pro pøesné mìøení
+  delay(50);
+  // naètení frekvence zelené barvy
+  frekvenceZelena = pulseIn(pinOut, LOW);
+  // nastavení mìøení modré barvy
+  digitalWrite(pinS2,LOW);
+  digitalWrite(pinS3,HIGH);
+  // krátká pauza pro pøesné mìøení
+  delay(50);
+  // naètení frekvence modré barvy
+  frekvenceModra = pulseIn(pinOut, LOW);
+  // vytištìní naètených frekvencí po sériové lince
+  Serial.print("R: ");
+  Serial.print(frekvenceCervena);
+  Serial.print(" | G: ");
+  Serial.print(frekvenceZelena);
+  Serial.print(" | B: ");
+  Serial.print(frekvenceModra);
+  // pokud je detekována nìjaká z barev, vytiskneme
+  // informaci po sériové lince
+  if (frekvenceCervena < 60) {
+    Serial.print(" | Detekce cervene. ");
+  }
+  if (frekvenceZelena < 60) {
+    Serial.print(" | Detekce zelene. ");
+  }
+  if (frekvenceModra < 60) {
+    Serial.print(" | Detekce modre. ");
+  }
+  // detekce vlastní barvy složené z rùzných složek
+  if (frekvenceCervena < 60 & frekvenceZelena < 60 ) {
+    Serial.print(" | Detekce zlute. ");
+  }
+  // ukonèení øádku
+  Serial.println();
+  // volitelná pauza pro pøehledné ètení výsledkù
+  delay(850);
+}

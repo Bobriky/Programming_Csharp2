@@ -1,0 +1,46 @@
+class SD 
+	filename - název souboru, který může obsahovat adresáře (ohraničené lomítky /)
+
+begin()	boolean begin(uint8_t csPin = SD_CHIP_SELECT_PIN);	true v pořádku
+open()	File open(const char *filename, uint8_t mode = FILE_READ);	FILE_WRITE – čtení i zápis
+exists()	boolean exists(const char *filepath); 	true existuje
+mkdir()	boolean mkdir(const char *filepath);	true složka vytvořena
+remove()	boolean remove(const char *filepath);	true soubor smazán
+rmdir()	boolean rmdir(const char *filepath);	true složka ostraněna
+class SD 
+name()		- vrátí název souboru
+available()	int File::available()	- vrátí počet dostupných bajtů 
+close()	void File::close()	- uzavře soubor
+flush()	void File::flush()	- po close() uloží data dna SD
+peek()	int File::peek()	- načtě bajt ze souboru bez přechodu na další
+position()	uint32_t File::position()	- vrátí aktuální pozici v souboru
+print()		- vytiskne data (čísla jako posloupnost znaků)
+println()		- vytiskne data a konec řádku
+seek()	boolean File::seek(uint32_t pos)	- vyhledá novou pozici v souboru
+size()	uint32_t File::size()	- velikost pole
+read()	int File::read()	- čtení ze souboru
+write()	size_t File::write(uint8_t val)	- zápis dat do souboru
+isDirectory()	boolean File::isDirectory(void)	- TRUE je adresář
+openNextFile()	Char openNextFile()	- vrátí další soubor nebo složku
+rewindDirectory()	void rewindDirectory()	- vrátí zpět k prvnímu souboru v adresáři
+		
+-	knihovna RTChttps://www.arduino.cc/en/Reference/RTC 
+class DateTime
+DateTime (long t =0);
+DateTime (uint16_t year, uint8_t month, uint8_t day,uint8_t hour =0, uint8_t min =0, uint8_t sec =0);
+DateTime (const char* date, const char* time);
+year()	uint16_t year() const       { return 2000 + yOff; }
+month() 	uint8_t month() const       { return m; }
+day()	uint8_t day() const         { return d; }
+hour()	uint8_t hour() const        { return hh; }
+minute()	uint8_t minute() const      { return mm; }
+second()	uint8_t second() const      { return ss; }
+dayOfWeek()	uint8_t dayOfWeek() const;
+class RTC_DS1307 
+begin ()	static void begin ()	- připojeného obvodu RTC
+isrunning()	static uint8_t isrunning ()	-  kontrola spuštění obvodu RTC
+adjust () 	static void adjust (const DateTime &dt) 	- jednorázové nastavení času v RTC
+	(formát: rok, měsíc, den, hodina, minuta, vteřina => 11.1.2019 8:00:00)
+now ()	static DateTime now ()	- aktuální datum a čas
+bcd2bin ()	static uint8_t bcd2bin (uint8_t val)	
+bin2bcd ()	static uint8_t bin2bcd (uint8_t val)	

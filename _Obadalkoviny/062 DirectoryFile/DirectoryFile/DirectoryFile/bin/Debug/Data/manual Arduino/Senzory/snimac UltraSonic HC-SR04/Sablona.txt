@@ -1,0 +1,26 @@
+#define Trig 
+#define Echo 
+
+void setup()
+{
+  
+}
+
+void loop()
+{
+
+  digitalWrite(Trig, LOW);
+  delayMicroseconds(2);
+  digitalWrite(Trig, HIGH);
+  delayMicroseconds(5);
+  digitalWrite(Trig, LOW);       
+
+  odezva = pulseIn(Echo, HIGH);
+
+  vzdalenost = odezva / 58.31;
+  
+ 
+}
+
+
+

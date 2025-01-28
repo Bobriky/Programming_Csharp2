@@ -1,0 +1,20 @@
+Teplotní èidlo DS18B20
+
+#include <OneWire.h>
+#include <DallasTemperature.h>
+
+pinCidlaDS = 4;
+
+OneWire oneWireDS(pinCidlaDS);
+DallasTemperature senzoryDS(&oneWireDS);
+
+void setup(void) 
+{
+  senzoryDS.begin();
+}
+
+void loop(void) 
+{
+  senzoryDS.requestTemperatures();
+  senzoryDS.getTempCByIndex(0));
+}
