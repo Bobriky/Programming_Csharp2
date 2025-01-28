@@ -1,0 +1,26 @@
+U:\PRO\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe.config
+U:\PRO\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe
+U:\PRO\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.pdb
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.AssemblyReference.cache
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Form1.resources
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Properties.Resources.resources
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.GenerateResource.cache
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CoreCompileInputs.cache
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.exe
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.pdb
+U:\PRO\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.dll
+U:\PRO\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.xml
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CopyComplete
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe.config
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.pdb
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.dll
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.xml
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.AssemblyReference.cache
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Form1.resources
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Properties.Resources.resources
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.GenerateResource.cache
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CopyComplete
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.exe
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.pdb

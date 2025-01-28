@@ -1,0 +1,10 @@
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\skibidCRUD SQL\bin\Debug\skibidCRUD SQL.exe.config
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\skibidCRUD SQL\bin\Debug\skibidCRUD SQL.exe
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\skibidCRUD SQL\bin\Debug\skibidCRUD SQL.pdb
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\skibidCRUD SQL\obj\Debug\skibidCRUD SQL.csproj.AssemblyReference.cache
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\skibidCRUD SQL\obj\Debug\skibidCRUD_SQL.Form1.resources
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\skibidCRUD SQL\obj\Debug\skibidCRUD_SQL.Properties.Resources.resources
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\skibidCRUD SQL\obj\Debug\skibidCRUD SQL.csproj.GenerateResource.cache
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\skibidCRUD SQL\obj\Debug\skibidCRUD SQL.csproj.CoreCompileInputs.cache
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\skibidCRUD SQL\obj\Debug\skibidCRUD SQL.exe
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\skibidCRUD SQL\obj\Debug\skibidCRUD SQL.pdb
