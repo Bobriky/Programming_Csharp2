@@ -1,0 +1,30 @@
+U:\chartSin\chartSin\bin\Debug\chartSin.exe.config
+U:\chartSin\chartSin\bin\Debug\chartSin.exe
+U:\chartSin\chartSin\bin\Debug\chartSin.pdb
+U:\chartSin\chartSin\obj\Debug\chartSin.csproj.AssemblyReference.cache
+U:\chartSin\chartSin\obj\Debug\chartSin.Form1.resources
+U:\chartSin\chartSin\obj\Debug\chartSin.Properties.Resources.resources
+U:\chartSin\chartSin\obj\Debug\chartSin.csproj.GenerateResource.cache
+U:\chartSin\chartSin\obj\Debug\chartSin.csproj.CoreCompileInputs.cache
+U:\chartSin\chartSin\obj\Debug\chartSin.exe
+U:\chartSin\chartSin\obj\Debug\chartSin.pdb
+u:\PRO 4F\zk04charSin\chartSin\bin\Debug\chartSin.exe.config
+u:\PRO 4F\zk04charSin\chartSin\bin\Debug\chartSin.exe
+u:\PRO 4F\zk04charSin\chartSin\bin\Debug\chartSin.pdb
+u:\PRO 4F\zk04charSin\chartSin\obj\Debug\chartSin.csproj.AssemblyReference.cache
+u:\PRO 4F\zk04charSin\chartSin\obj\Debug\chartSin.Form1.resources
+u:\PRO 4F\zk04charSin\chartSin\obj\Debug\chartSin.Properties.Resources.resources
+u:\PRO 4F\zk04charSin\chartSin\obj\Debug\chartSin.csproj.GenerateResource.cache
+u:\PRO 4F\zk04charSin\chartSin\obj\Debug\chartSin.csproj.CoreCompileInputs.cache
+u:\PRO 4F\zk04charSin\chartSin\obj\Debug\chartSin.exe
+u:\PRO 4F\zk04charSin\chartSin\obj\Debug\chartSin.pdb
+U:\Vypracovane_Ukoly\3E4E\skibid\zk04charSin\chartSin\obj\Debug\chartSin.csproj.AssemblyReference.cache
+U:\Vypracovane_Ukoly\3E4E\skibid\zk04charSin\chartSin\obj\Debug\chartSin.Form1.resources
+U:\Vypracovane_Ukoly\3E4E\skibid\zk04charSin\chartSin\obj\Debug\chartSin.Properties.Resources.resources
+U:\Vypracovane_Ukoly\3E4E\skibid\zk04charSin\chartSin\obj\Debug\chartSin.csproj.GenerateResource.cache
+U:\Vypracovane_Ukoly\3E4E\skibid\zk04charSin\chartSin\obj\Debug\chartSin.csproj.CoreCompileInputs.cache
+U:\Vypracovane_Ukoly\3E4E\skibid\zk04charSin\chartSin\obj\Debug\chartSin.exe
+U:\Vypracovane_Ukoly\3E4E\skibid\zk04charSin\chartSin\obj\Debug\chartSin.pdb
+U:\Vypracovane_Ukoly\3E4E\skibid\zk04charSin\chartSin\bin\Debug\chartSin.exe.config
+U:\Vypracovane_Ukoly\3E4E\skibid\zk04charSin\chartSin\bin\Debug\chartSin.exe
+U:\Vypracovane_Ukoly\3E4E\skibid\zk04charSin\chartSin\bin\Debug\chartSin.pdb

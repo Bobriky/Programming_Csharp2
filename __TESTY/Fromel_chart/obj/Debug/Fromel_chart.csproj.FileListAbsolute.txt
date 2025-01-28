@@ -1,0 +1,10 @@
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\__TESTY\Fromel_chart\bin\Debug\Fromel_chart.exe.config
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\__TESTY\Fromel_chart\bin\Debug\Fromel_chart.exe
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\__TESTY\Fromel_chart\bin\Debug\Fromel_chart.pdb
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\__TESTY\Fromel_chart\obj\Debug\Fromel_chart.csproj.AssemblyReference.cache
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\__TESTY\Fromel_chart\obj\Debug\Fromel_chart.Form1.resources
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\__TESTY\Fromel_chart\obj\Debug\Fromel_chart.Properties.Resources.resources
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\__TESTY\Fromel_chart\obj\Debug\Fromel_chart.csproj.GenerateResource.cache
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\__TESTY\Fromel_chart\obj\Debug\Fromel_chart.csproj.CoreCompileInputs.cache
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\__TESTY\Fromel_chart\obj\Debug\Fromel_chart.exe
+U:\Vypracovane_Ukoly\3E\Programming_Csharp\____4E\__TESTY\Fromel_chart\obj\Debug\Fromel_chart.pdb
