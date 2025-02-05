@@ -8,3 +8,13 @@ C:\Users\Šimon Frőmel\Desktop\Repositories\Programming_Csharp2\_C# Arduino pro
 C:\Users\Šimon Frőmel\Desktop\Repositories\Programming_Csharp2\_C# Arduino projekty\ArduinoSerial\obj\Debug\ArduinoSerial.csproj.CoreCompileInputs.cache
 C:\Users\Šimon Frőmel\Desktop\Repositories\Programming_Csharp2\_C# Arduino projekty\ArduinoSerial\obj\Debug\ArduinoSerial.exe
 C:\Users\Šimon Frőmel\Desktop\Repositories\Programming_Csharp2\_C# Arduino projekty\ArduinoSerial\obj\Debug\ArduinoSerial.pdb
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# Arduino projekty\ArduinoSerial\bin\Debug\ArduinoSerial.exe.config
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# Arduino projekty\ArduinoSerial\bin\Debug\ArduinoSerial.exe
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# Arduino projekty\ArduinoSerial\bin\Debug\ArduinoSerial.pdb
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# Arduino projekty\ArduinoSerial\obj\Debug\ArduinoSerial.csproj.AssemblyReference.cache
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# Arduino projekty\ArduinoSerial\obj\Debug\ArduinoSerial.Form1.resources
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# Arduino projekty\ArduinoSerial\obj\Debug\ArduinoSerial.Properties.Resources.resources
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# Arduino projekty\ArduinoSerial\obj\Debug\ArduinoSerial.csproj.GenerateResource.cache
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# Arduino projekty\ArduinoSerial\obj\Debug\ArduinoSerial.csproj.CoreCompileInputs.cache
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# Arduino projekty\ArduinoSerial\obj\Debug\ArduinoSerial.exe
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# Arduino projekty\ArduinoSerial\obj\Debug\ArduinoSerial.pdb

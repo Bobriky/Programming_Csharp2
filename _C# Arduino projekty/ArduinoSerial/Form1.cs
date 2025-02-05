@@ -14,6 +14,7 @@ namespace ArduinoSerial
 {
     public partial class Form1 : Form
     {
+        string myData;
         public Form1()
         {
             InitializeComponent();
@@ -43,16 +44,17 @@ namespace ArduinoSerial
                     btnConnect.Text = "DISCONNECT";
                     cmbBaudRate.Enabled = cmbCOM.Enabled = btnReadCOM.Enabled = false;
                 }
-            }else if (!myPort.IsOpen){
+            }else if (btnConnect.BackColor == Color.Red){
                 myPort.Close();
                 btnConnect.BackColor = Color.Green;
                 btnConnect.Text = "CONNECT";
+                cmbBaudRate.Enabled = cmbCOM.Enabled = btnReadCOM.Enabled = true;
             }
         }
 
         private void btnPush_Click(object sender, EventArgs e)
         {
-
+            myPort.Write(txtSerialCmdInput.Text);
         }
 
         private void myPort_DataReceived(object sender, SerialDataReceivedEventArgs e)
@@ -63,8 +65,16 @@ namespace ArduinoSerial
 
         private void myWork(object sender, EventArgs e)
         {
-            txtSerialCmdOutput.Text
-            throw new NotImplementedException();
+            try
+            {
+                txtSerialCmdOutput.Text = myData;
+                txtNumbers.Text = myData;
+            }
+            catch (Exception err)
+            {
+                MessageBox.Show(err.Message);
+            }
+
         }
     }
 }
