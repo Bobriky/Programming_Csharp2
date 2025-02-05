@@ -15,6 +15,7 @@ namespace ArduinoSerial
     public partial class Form1 : Form
     {
         string myData;
+        int repeater = 0;
         public Form1()
         {
             InitializeComponent();
@@ -54,27 +55,58 @@ namespace ArduinoSerial
 
         private void btnPush_Click(object sender, EventArgs e)
         {
-            myPort.Write(txtSerialCmdInput.Text);
+            myPort.Write(nmArduinoInput.Value.ToString());
         }
 
         private void myPort_DataReceived(object sender, SerialDataReceivedEventArgs e)
         {
             myData = myPort.ReadExisting().Trim();
-            this.Invoke(new EventHandler(myWork));
-        }
+            for(int i = 0; i < repeater; i++) {
+                this.Invoke(new EventHandler(myWork));
+            }
 
+        }
         private void myWork(object sender, EventArgs e)
         {
-            try
+            txtArduinoOutputMemory.Text += (" [" + myData + "] ");
+            txtNumbers.Text = myData;
+            if(nmArduinoInput.Value == 0)
             {
-                txtSerialCmdOutput.Text = myData;
-                txtNumbers.Text = myData;
+                switch (Convert.ToInt32(myData))
+                {
+                    case 0: { lblCounter0.Text = (Convert.ToInt32(lblCounter0.Text) + 1).ToString(); break;}
+                    case 1: { lblCounter1.Text = (Convert.ToInt32(lblCounter1.Text) + 1).ToString(); break; }
+                    case 2: { lblCounter2.Text = (Convert.ToInt32(lblCounter2.Text) + 1).ToString(); break; }
+                    case 3: { lblCounter3.Text = (Convert.ToInt32(lblCounter3.Text) + 1).ToString(); break; }
+                    case 4: { lblCounter4.Text = (Convert.ToInt32(lblCounter4.Text) + 1).ToString(); break; }
+                    case 5: { lblCounter5.Text = (Convert.ToInt32(lblCounter5.Text) + 1).ToString(); break; }
+                    case 6: { lblCounter6.Text = (Convert.ToInt32(lblCounter6.Text) + 1).ToString(); break; }
+                    case 7: { lblCounter7.Text = (Convert.ToInt32(lblCounter7.Text) + 1).ToString(); break; }
+                    case 8: { lblCounter8.Text = (Convert.ToInt32(lblCounter8.Text) + 1).ToString(); break; }
+                    case 9: { lblCounter9.Text = (Convert.ToInt32(lblCounter9.Text) + 1).ToString(); break; }
+                }
+                lblAverageNumber.Text =
+                    ((int.Parse(lblCounter0.Text)
+                    + int.Parse(lblCounter1.Text)
+                    + int.Parse(lblCounter2.Text) 
+                    + int.Parse(lblCounter3.Text) 
+                    + int.Parse(lblCounter4.Text) 
+                    + int.Parse(lblCounter5.Text) 
+                    + int.Parse(lblCounter6.Text) 
+                    + int.Parse(lblCounter7.Text) 
+                    + int.Parse(lblCounter8.Text) 
+                    + int.Parse(lblCounter9.Text))/10).ToString();
             }
-            catch (Exception err)
-            {
-                MessageBox.Show(err.Message);
-            }
+        }
 
+        private void radRepeat_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnReset_Click(object sender, EventArgs e)
+        {
+            txtArduinoOutputMemory.Text = "Čísla: ";
         }
     }
 }
