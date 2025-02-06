@@ -1,0 +1,114 @@
+U:\PRO\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe.config
+U:\PRO\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe
+U:\PRO\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.pdb
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.AssemblyReference.cache
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Form1.resources
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Properties.Resources.resources
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.GenerateResource.cache
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CoreCompileInputs.cache
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.exe
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.pdb
+U:\PRO\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.dll
+U:\PRO\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.xml
+U:\PRO\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CopyComplete
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe.config
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.pdb
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.dll
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.xml
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.AssemblyReference.cache
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Form1.resources
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Properties.Resources.resources
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.GenerateResource.cache
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CopyComplete
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.exe
+C:\xampp\htdocs\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.pdb
+U:\Maturita SQL - kopie\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe.config
+U:\Maturita SQL - kopie\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe
+U:\Maturita SQL - kopie\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.pdb
+U:\Maturita SQL - kopie\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.dll
+U:\Maturita SQL - kopie\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.xml
+U:\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.AssemblyReference.cache
+U:\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Form1.resources
+U:\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Properties.Resources.resources
+U:\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.GenerateResource.cache
+U:\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CoreCompileInputs.cache
+U:\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CopyComplete
+U:\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.exe
+U:\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.pdb
+C:\Users\stastnyj\Documents\Maturita SQL - kopie\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe.config
+C:\Users\stastnyj\Documents\Maturita SQL - kopie\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe
+C:\Users\stastnyj\Documents\Maturita SQL - kopie\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.pdb
+C:\Users\stastnyj\Documents\Maturita SQL - kopie\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.dll
+C:\Users\stastnyj\Documents\Maturita SQL - kopie\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.xml
+C:\Users\stastnyj\Documents\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.AssemblyReference.cache
+C:\Users\stastnyj\Documents\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Form1.resources
+C:\Users\stastnyj\Documents\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Properties.Resources.resources
+C:\Users\stastnyj\Documents\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.GenerateResource.cache
+C:\Users\stastnyj\Documents\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CoreCompileInputs.cache
+C:\Users\stastnyj\Documents\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CopyComplete
+C:\Users\stastnyj\Documents\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.exe
+C:\Users\stastnyj\Documents\Maturita SQL - kopie\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.pdb
+C:\Users\stastnyj\Documents\Maturita SQL\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe.config
+C:\Users\stastnyj\Documents\Maturita SQL\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe
+C:\Users\stastnyj\Documents\Maturita SQL\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.pdb
+C:\Users\stastnyj\Documents\Maturita SQL\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.dll
+C:\Users\stastnyj\Documents\Maturita SQL\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.xml
+C:\Users\stastnyj\Documents\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.AssemblyReference.cache
+C:\Users\stastnyj\Documents\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Form1.resources
+C:\Users\stastnyj\Documents\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Properties.Resources.resources
+C:\Users\stastnyj\Documents\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.GenerateResource.cache
+C:\Users\stastnyj\Documents\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CoreCompileInputs.cache
+C:\Users\stastnyj\Documents\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CopyComplete
+C:\Users\stastnyj\Documents\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.exe
+C:\Users\stastnyj\Documents\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.pdb
+C:\Users\kubas\Documents\Maturita SQL\Maturita SQL\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe.config
+C:\Users\kubas\Documents\Maturita SQL\Maturita SQL\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe
+C:\Users\kubas\Documents\Maturita SQL\Maturita SQL\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.pdb
+C:\Users\kubas\Documents\Maturita SQL\Maturita SQL\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.xml
+C:\Users\kubas\Documents\Maturita SQL\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csprojAssemblyReference.cache
+C:\Users\kubas\Documents\Maturita SQL\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Form1.resources
+C:\Users\kubas\Documents\Maturita SQL\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Properties.Resources.resources
+C:\Users\kubas\Documents\Maturita SQL\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.GenerateResource.cache
+C:\Users\kubas\Documents\Maturita SQL\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CoreCompileInputs.cache
+C:\Users\kubas\Documents\Maturita SQL\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CopyComplete
+C:\Users\kubas\Documents\Maturita SQL\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.exe
+C:\Users\kubas\Documents\Maturita SQL\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.pdb
+C:\Users\stastnyj\Documents\Maturita SQL - Student\Maturita SQL - kopie\Maturita SQL\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe.config
+C:\Users\stastnyj\Documents\Maturita SQL - Student\Maturita SQL - kopie\Maturita SQL\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.exe
+C:\Users\stastnyj\Documents\Maturita SQL - Student\Maturita SQL - kopie\Maturita SQL\CRUD SQL\CRUD SQL\bin\Debug\CRUD SQL.pdb
+C:\Users\stastnyj\Documents\Maturita SQL - Student\Maturita SQL - kopie\Maturita SQL\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.dll
+C:\Users\stastnyj\Documents\Maturita SQL - Student\Maturita SQL - kopie\Maturita SQL\CRUD SQL\CRUD SQL\bin\Debug\MySql.Data.xml
+C:\Users\stastnyj\Documents\Maturita SQL - Student\Maturita SQL - kopie\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.AssemblyReference.cache
+C:\Users\stastnyj\Documents\Maturita SQL - Student\Maturita SQL - kopie\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Form1.resources
+C:\Users\stastnyj\Documents\Maturita SQL - Student\Maturita SQL - kopie\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD_SQL.Properties.Resources.resources
+C:\Users\stastnyj\Documents\Maturita SQL - Student\Maturita SQL - kopie\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.GenerateResource.cache
+C:\Users\stastnyj\Documents\Maturita SQL - Student\Maturita SQL - kopie\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CoreCompileInputs.cache
+C:\Users\stastnyj\Documents\Maturita SQL - Student\Maturita SQL - kopie\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CopyComplete
+C:\Users\stastnyj\Documents\Maturita SQL - Student\Maturita SQL - kopie\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.exe
+C:\Users\stastnyj\Documents\Maturita SQL - Student\Maturita SQL - kopie\Maturita SQL\CRUD SQL\CRUD SQL\obj\Debug\CRUD SQL.pdb
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# + databáze projekty\PONKE SQL\CRUD SQL\bin\Debug\CRUD SQL.exe.config
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# + databáze projekty\PONKE SQL\CRUD SQL\bin\Debug\CRUD SQL.exe
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# + databáze projekty\PONKE SQL\CRUD SQL\bin\Debug\CRUD SQL.pdb
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# + databáze projekty\PONKE SQL\CRUD SQL\bin\Debug\MySql.Data.xml
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# + databáze projekty\PONKE SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.AssemblyReference.cache
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# + databáze projekty\PONKE SQL\CRUD SQL\obj\Debug\CRUD_SQL.Form1.resources
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# + databáze projekty\PONKE SQL\CRUD SQL\obj\Debug\CRUD_SQL.Properties.Resources.resources
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# + databáze projekty\PONKE SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.GenerateResource.cache
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# + databáze projekty\PONKE SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CoreCompileInputs.cache
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# + databáze projekty\PONKE SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CopyComplete
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# + databáze projekty\PONKE SQL\CRUD SQL\obj\Debug\CRUD SQL.exe
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\_C# + databáze projekty\PONKE SQL\CRUD SQL\obj\Debug\CRUD SQL.pdb
+C:\Users\fromels\Desktop\PONKE SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.AssemblyReference.cache
+C:\Users\fromels\Desktop\PONKE SQL\CRUD SQL\obj\Debug\CRUD_SQL.Form1.resources
+C:\Users\fromels\Desktop\PONKE SQL\CRUD SQL\obj\Debug\CRUD_SQL.Properties.Resources.resources
+C:\Users\fromels\Desktop\PONKE SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.GenerateResource.cache
+C:\Users\fromels\Desktop\PONKE SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CoreCompileInputs.cache
+C:\Users\fromels\Desktop\PONKE SQL\CRUD SQL\obj\Debug\CRUD SQL.exe
+C:\Users\fromels\Desktop\PONKE SQL\CRUD SQL\obj\Debug\CRUD SQL.pdb
+C:\Users\fromels\Desktop\PONKE SQL\CRUD SQL\bin\Debug\CRUD SQL.exe.config
+C:\Users\fromels\Desktop\PONKE SQL\CRUD SQL\bin\Debug\CRUD SQL.exe
+C:\Users\fromels\Desktop\PONKE SQL\CRUD SQL\bin\Debug\CRUD SQL.pdb
+C:\Users\fromels\Desktop\PONKE SQL\CRUD SQL\bin\Debug\MySql.Data.xml
+C:\Users\fromels\Desktop\PONKE SQL\CRUD SQL\obj\Debug\CRUD SQL.csproj.CopyComplete
