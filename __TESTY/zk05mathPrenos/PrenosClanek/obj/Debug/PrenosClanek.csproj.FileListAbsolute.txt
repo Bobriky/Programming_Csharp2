@@ -1,0 +1,30 @@
+D:\PrenosClanek\PrenosClanek\bin\Debug\PrenosClanek.exe.config
+D:\PrenosClanek\PrenosClanek\bin\Debug\PrenosClanek.exe
+D:\PrenosClanek\PrenosClanek\bin\Debug\PrenosClanek.pdb
+D:\PrenosClanek\PrenosClanek\obj\Debug\PrenosClanek.csproj.AssemblyReference.cache
+D:\PrenosClanek\PrenosClanek\obj\Debug\PrenosClanek.Form1.resources
+D:\PrenosClanek\PrenosClanek\obj\Debug\PrenosClanek.Properties.Resources.resources
+D:\PrenosClanek\PrenosClanek\obj\Debug\PrenosClanek.csproj.GenerateResource.cache
+D:\PrenosClanek\PrenosClanek\obj\Debug\PrenosClanek.csproj.CoreCompileInputs.cache
+D:\PrenosClanek\PrenosClanek\obj\Debug\PrenosClanek.exe
+D:\PrenosClanek\PrenosClanek\obj\Debug\PrenosClanek.pdb
+u:\PRO 4E\zk05mathPrenos\Zadani\PrenosClanek\bin\Debug\PrenosClanek.exe.config
+u:\PRO 4E\zk05mathPrenos\Zadani\PrenosClanek\bin\Debug\PrenosClanek.exe
+u:\PRO 4E\zk05mathPrenos\Zadani\PrenosClanek\bin\Debug\PrenosClanek.pdb
+u:\PRO 4E\zk05mathPrenos\Zadani\PrenosClanek\obj\Debug\PrenosClanek.csproj.AssemblyReference.cache
+u:\PRO 4E\zk05mathPrenos\Zadani\PrenosClanek\obj\Debug\PrenosClanek.Form1.resources
+u:\PRO 4E\zk05mathPrenos\Zadani\PrenosClanek\obj\Debug\PrenosClanek.Properties.Resources.resources
+u:\PRO 4E\zk05mathPrenos\Zadani\PrenosClanek\obj\Debug\PrenosClanek.csproj.GenerateResource.cache
+u:\PRO 4E\zk05mathPrenos\Zadani\PrenosClanek\obj\Debug\PrenosClanek.csproj.CoreCompileInputs.cache
+u:\PRO 4E\zk05mathPrenos\Zadani\PrenosClanek\obj\Debug\PrenosClanek.exe
+u:\PRO 4E\zk05mathPrenos\Zadani\PrenosClanek\obj\Debug\PrenosClanek.pdb
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\bin\Debug\PrenosClanek.exe.config
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\bin\Debug\PrenosClanek.exe
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\bin\Debug\PrenosClanek.pdb
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.csproj.AssemblyReference.cache
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.Form1.resources
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.Properties.Resources.resources
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.csproj.GenerateResource.cache
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.csproj.CoreCompileInputs.cache
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.exe
+U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.pdb
