@@ -28,3 +28,13 @@ U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClane
 U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.csproj.CoreCompileInputs.cache
 U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.exe
 U:\Vypracovane_Ukoly\3E4E\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.pdb
+C:\Users\Šimon Frőmel\Desktop\Repositories\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\bin\Debug\PrenosClanek.exe.config
+C:\Users\Šimon Frőmel\Desktop\Repositories\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\bin\Debug\PrenosClanek.exe
+C:\Users\Šimon Frőmel\Desktop\Repositories\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\bin\Debug\PrenosClanek.pdb
+C:\Users\Šimon Frőmel\Desktop\Repositories\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.csproj.AssemblyReference.cache
+C:\Users\Šimon Frőmel\Desktop\Repositories\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.Form1.resources
+C:\Users\Šimon Frőmel\Desktop\Repositories\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.Properties.Resources.resources
+C:\Users\Šimon Frőmel\Desktop\Repositories\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.csproj.GenerateResource.cache
+C:\Users\Šimon Frőmel\Desktop\Repositories\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.csproj.CoreCompileInputs.cache
+C:\Users\Šimon Frőmel\Desktop\Repositories\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.exe
+C:\Users\Šimon Frőmel\Desktop\Repositories\Programming_Csharp2\__TESTY\zk05mathPrenos\PrenosClanek\obj\Debug\PrenosClanek.pdb

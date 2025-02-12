@@ -52,23 +52,9 @@ namespace PrenosClanek
             apkInit();
 
         }
-        double kapacita;
-        double odpor;
-        double tau;
-        double omega;
-        double mezF;
+        double kapacita, odpor, tau, omega, mezF;
+        double Re, Im, Au, Audb, P;
 
-        double ReIC;
-        double ImIC;
-        double AuIC;
-        double AudbIC;
-        double PIC;
-
-        double ReDC;
-        double ImDC;
-        double AuDC;
-        double AudbDC;
-        double PDC;
         private void apkInit()
         {
             nmHodnR.Value = 80;
@@ -97,50 +83,74 @@ namespace PrenosClanek
 
         private void btnCalc_Click(object sender, EventArgs e)
         {
-            lblTau.Text = tau.ToString();
-            lblfmez.Text = mezF.ToString();
-            kapacita = (double)nmHodnC.Value;
-            odpor = (double)nmHodnR.Value;
-            tau = kapacita * odpor;
-            mezF = (1 / 2 * Math.PI * tau);
-
-            if (rdBtnInteg.Checked)
+            try
             {
-                for (int i = Convert.ToInt32(nmfmin.Value); i < Convert.ToInt32(nmfmax.Value); i += Convert.ToInt32(nmfstep.Value))
-                {
-                    omega = (2 * Math.PI * Convert.ToDouble(i));
-                    ReIC = (1 / (1 + Math.Pow((omega * tau), 2)));
-                    ImIC = (omega * tau) / (1 + Math.Pow((omega * tau), 2));
-                    AuIC = Math.Abs(Math.Sqrt(Math.Pow(ReIC, 2) + Math.Pow(ImIC, 2)));
-                    AudbIC = 20 * Math.Log(AuIC);
-                    PIC = Math.Atan((ImIC / ReIC) / (Math.PI * 180));
-
-                    ListViewItem item = new ListViewItem(i.ToString());
-                    item.SubItems.Add(ReIC.ToString());
-                    item.SubItems.Add(ImIC.ToString());
-                    item.SubItems.Add(AudbIC.ToString());
-                    item.SubItems.Add(PIC.ToString());
-                    lstView.Items.Add(item);
-                } 
-            }
-            else if(rdBtnDeriv.Checked)
-            {// dodělat pro DC
-                for (int i = Convert.ToInt32(nmfmin.Value); i < Convert.ToInt32(nmfmax.Value); i += Convert.ToInt32(nmfstep.Value))
-                {
-                    omega = (2 * Math.PI * Convert.ToDouble(i));
-                    ReDC = 0;
-                    ImDC = 0;
-                    AuDC = 0;
-                    AudbDC = 0;
-                    PDC = 0;
-
-                    ListViewItem item = new ListViewItem(i.ToString());
-                    item.SubItems.Add(ReIC.ToString());
-                    item.SubItems.Add(ImIC.ToString());
-                    item.SubItems.Add(AudbIC.ToString());
-                    item.SubItems.Add(PIC.ToString());
-                    lstView.Items.Add(item);
+                lstView.Items.Clear();
+                switch (cmbJednC.Text){
+                    case "F": kapacita = (double)nmHodnC.Value; break;
+                    case "mF": kapacita = (double)nmHodnC.Value*Math.Pow(10,-3); break;
+                    case "uF": kapacita = (double)nmHodnC.Value * Math.Pow(10, -6); break;
+                    case "nF": kapacita = (double)nmHodnC.Value * Math.Pow(10, -9); break;
+                    case "pF": kapacita = (double)nmHodnC.Value * Math.Pow(10, -12); break;
+                    default: kapacita = 1; MessageBox.Show("SUS"); break;
                 }
+                switch (cmbJednR.Text){
+                    case "Ω": odpor = (double)nmHodnR.Value; break;
+                    case "GΩ": odpor = (double)nmHodnR.Value * Math.Pow(10, 9); break;
+                    case "MΩ": odpor = (double)nmHodnR.Value * Math.Pow(10, 6); break;
+                    case "kΩ": odpor = (double)nmHodnR.Value * Math.Pow(10, 3); break;
+                    case "mΩ": odpor = (double)nmHodnR.Value * Math.Pow(10, -3); break;
+                    default: odpor = 1; MessageBox.Show("SUS"); break;
+                }
+                tau = kapacita * odpor;
+                mezF = 1 / (2 * Math.PI * tau);
+
+                lblTau.Text = tau.ToString();
+                lblfmez.Text = mezF.ToString();
+
+                if (rdBtnInteg.Checked)
+                {
+                    for (int i = Convert.ToInt32(nmfmin.Value); i < Convert.ToInt32(nmfmax.Value); i += Convert.ToInt32(nmfstep.Value))
+                    {
+                        omega = (2 * Math.PI * Convert.ToDouble(i));
+                        Re = (1 / (1 + Math.Pow((omega * tau), 2)));
+                        Im = -((omega * tau) / (1 + Math.Pow((omega * tau), 2)));
+                        Au = Math.Abs(Math.Sqrt(Math.Pow(Re, 2) + Math.Pow(Im, 2)));
+                        Audb = 20 * Math.Log(Au);
+                        P = Math.Atan((Im / Re) / (Math.PI * 180));
+
+                        ListViewItem item = new ListViewItem(i.ToString());
+                        item.SubItems.Add(Re.ToString());
+                        item.SubItems.Add(Im.ToString());
+                        item.SubItems.Add(Audb.ToString());
+                        item.SubItems.Add(P.ToString());
+                        lstView.Items.Add(item);
+                    }
+                }
+                else if (rdBtnDeriv.Checked)
+                {// dodělat pro DC
+                    for (int i = Convert.ToInt32(nmfmin.Value); i < Convert.ToInt32(nmfmax.Value); i += Convert.ToInt32(nmfstep.Value))
+                    {
+                        omega = (2 * Math.PI * Convert.ToDouble(i));
+                        Re = Math.Pow(omega * tau, 2) / (1 + Math.Pow(omega * tau, 2));
+                        Im = (omega * tau) / (1 + Math.Pow(omega * tau, 2));
+                        Au = Math.Abs(Math.Sqrt(Math.Pow(Re, 2) + Math.Pow(Im, 2)));
+                        Audb = 20 * Math.Log(Au);
+                        P = Math.Atan((Im / Re) / (Math.PI * 180));
+
+                        ListViewItem item = new ListViewItem(i.ToString());
+                        item.SubItems.Add(Re.ToString());
+                        item.SubItems.Add(Im.ToString());
+                        item.SubItems.Add(Audb.ToString());
+                        item.SubItems.Add(P.ToString());
+                        lstView.Items.Add(item);
+                    }
+                }
+            }
+            catch (Exception err)
+            {
+                MessageBox.Show(err.ToString());
+                throw;
             }
         }
 
