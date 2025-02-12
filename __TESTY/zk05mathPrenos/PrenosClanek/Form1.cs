@@ -28,7 +28,6 @@ using System.Windows.Forms;
  
     Přepočet všech výpočtů při změně vstupních parametrů (R, C, f, druh článku) 
 
-
     Bonus: samostatná dobrovolná práce (opakování procvičování):
     - výpočet a zobrazení přenosu pro mezní kmitočet
     - převod vypočtených jednotek na dílčí (T, G, M, k, m, u, n, p)
@@ -50,7 +49,6 @@ namespace PrenosClanek
         {
             InitializeComponent();
             apkInit();
-
         }
         double kapacita, odpor, tau, omega, mezF;
         double Re, Im, Au, Audb, P;
@@ -110,14 +108,14 @@ namespace PrenosClanek
 
                 if (rdBtnInteg.Checked)
                 {
-                    for (int i = Convert.ToInt32(nmfmin.Value); i < Convert.ToInt32(nmfmax.Value); i += Convert.ToInt32(nmfstep.Value))
+                    for (double i = Convert.ToDouble(nmfmin.Value); i < Convert.ToDouble(nmfmax.Value); i += Convert.ToDouble(nmfstep.Value))
                     {
-                        omega = (2 * Math.PI * Convert.ToDouble(i));
-                        Re = (1 / (1 + Math.Pow((omega * tau), 2)));
-                        Im = -((omega * tau) / (1 + Math.Pow((omega * tau), 2)));
+                        omega = 2 * Math.PI * i;
+                        Re = 1 / (1 + Math.Pow(omega * tau, 2));
+                        Im = -(omega * tau / (1 + Math.Pow(omega * tau, 2)));
                         Au = Math.Abs(Math.Sqrt(Math.Pow(Re, 2) + Math.Pow(Im, 2)));
                         Audb = 20 * Math.Log(Au);
-                        P = Math.Atan((Im / Re) / (Math.PI * 180));
+                        P = Math.Atan(Im / Re / (Math.PI * 180));
 
                         ListViewItem item = new ListViewItem(i.ToString());
                         item.SubItems.Add(Re.ToString());
@@ -128,15 +126,15 @@ namespace PrenosClanek
                     }
                 }
                 else if (rdBtnDeriv.Checked)
-                {// dodělat pro DC
-                    for (int i = Convert.ToInt32(nmfmin.Value); i < Convert.ToInt32(nmfmax.Value); i += Convert.ToInt32(nmfstep.Value))
+                {
+                    for (double i = Convert.ToDouble(nmfmin.Value); i < Convert.ToDouble(nmfmax.Value); i += Convert.ToDouble(nmfstep.Value))
                     {
-                        omega = (2 * Math.PI * Convert.ToDouble(i));
+                        omega = 2 * Math.PI * Convert.ToDouble(i);
                         Re = Math.Pow(omega * tau, 2) / (1 + Math.Pow(omega * tau, 2));
-                        Im = (omega * tau) / (1 + Math.Pow(omega * tau, 2));
+                        Im = omega * tau / (1 + Math.Pow(omega * tau, 2));
                         Au = Math.Abs(Math.Sqrt(Math.Pow(Re, 2) + Math.Pow(Im, 2)));
                         Audb = 20 * Math.Log(Au);
-                        P = Math.Atan((Im / Re) / (Math.PI * 180));
+                        P = Math.Atan(Im / Re / (Math.PI * 180));
 
                         ListViewItem item = new ListViewItem(i.ToString());
                         item.SubItems.Add(Re.ToString());
@@ -153,7 +151,6 @@ namespace PrenosClanek
                 throw;
             }
         }
-
         private void rdBtnInteg_CheckedChanged(object sender, EventArgs e)
         {
             lstView.Items.Clear();
